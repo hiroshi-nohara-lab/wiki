@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "04f114393d14b50a",
+    "type": "split",
+    "children": [
+      {
+        "id": "89b191af7b0408a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b745612771fb86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/computer-science-distilled/chapter 1 - Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter 1 - Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "091632c19e361c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ad10c85767272b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "959267cbdb2415cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cad0579c48c5085d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e383aa8ad012256e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1acb9202dd12a123",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4bc4cf4d62d67b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bae49b02f1d4915a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "computer-science/computer-science-distilled/chapter 1 - Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for chapter 1 - Basics"
+            }
+          },
+          {
+            "id": "77d7889c4882bcd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "computer-science/computer-science-distilled/chapter 1 - Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chapter 1 - Basics"
+            }
+          },
+          {
+            "id": "3752ddb7fdd3caaf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "319917a83a662a69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "computer-science/computer-science-distilled/chapter 1 - Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chapter 1 - Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2b745612771fb86",
+  "lastOpenFiles": [
+    "philosophy",
+    "history",
+    "create a link.md",
+    "computer-science/computer-science-distilled/chapter 1 - Basics.md",
+    "chemistry",
+    "biology",
+    "space",
+    "maths",
+    "physics",
+    "computer-science",
+    "computer-science/computer-science-distilled",
+    "Welcome.md"
+  ]
+}
